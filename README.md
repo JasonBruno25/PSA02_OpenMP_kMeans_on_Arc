@@ -2,7 +2,7 @@
 # CMDA 3634 PSA02 : OpenMP k‑means on ARC
 
 **Author:** Jason Bruno Terceros  
-**Course:** CMDA 3634 – Parallel Programming  
+**Course:** CMDA 3634 – Comp Sci Foundations  
 **Date:** February 2024 - March 2024
 
 ---
